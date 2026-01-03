@@ -1,0 +1,17 @@
+# Sample URLs for testing Secuarden Headers
+# Lines starting with # are comments
+
+# Major websites
+https://github.com
+https://google.com
+https://cloudflare.com
+
+# Security-focused sites
+https://securityheaders.com
+https://mozilla.org
+
+# CDN providers
+https://cdn.jsdelivr.net
+https://unpkg.com
+
+# Add your own URLs below:
